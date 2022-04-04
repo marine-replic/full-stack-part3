@@ -34,6 +34,8 @@ app.use(morgan('tiny'))
 const cors = require('cors')
 app.use(cors())
 
+// Middleware to display static content from the build folder
+app.use(express.static('build'))
 
 
 app.get('/', (request, response) => {
