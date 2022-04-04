@@ -1,0 +1,32 @@
+{
+  "name": "full-stack-part3",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000f\u0000u\u0000l\u0000l\u0000-\u0000s\u0000t\u0000a\u0000c\u0000k\u0000-\u0000p\u0000a\u0000r\u0000t\u00003\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marine-replic/full-stack-part3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marine-replic/full-stack-part3/issues"
+  },
+  "homepage": "https://github.com/marine-replic/full-stack-part3#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
