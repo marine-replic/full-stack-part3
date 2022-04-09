@@ -3,7 +3,7 @@ content-type: application/json
 
 {
     "name": "Test Name",
-    "number": "000-000-0000"
+    "number": "000-0000000"
 }
 
 ###
